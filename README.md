@@ -13,10 +13,9 @@ The raw sales data was imported into Excel and summarized to derive descriptive 
 - Total Profit:    44.17M
 - Ttem Types:      12
 - Units Sold:      513K
-
 Data errors were corrected and outliers capped to acceptable ranges based on subject matter knowledge.
 
-Descriptive Analysis 
+DESCRIPTIVE STATISTICS
 
 Sylip Corporation is a multi-product retailer that recorded £137.35 million in total revenue, £93.18 million in costs, £44.17 million in profits over the period analyzed based on the sales data dashboard. 
 
@@ -24,23 +23,20 @@ Sylip Corporation is a multi-product retailer that recorded £137.35 million in 
 - Average revenue per order stood at £39,961 with average cost per order being £26,012
 - Gross margin percentage worked out to 35% across Sylip Corporation orders
 
-Explanatory Analysis
+EXPLANATORY ANALYSIS
 
 Longitudinal analysis indicates considerable fluctuation in year-on-year (YoY) growth rates:  
-
 - 2010-11: 8.4% revenue growth 
 - 2011-12: 23.22% growth showing improving performance
 - 2012-15: Slump years with negative growth between -10% to -15% 
 - 2016-17: Marginal recovery of 9.74% 
 
-Diagnostic Analysis
+DIAGNOSTIC ANALYSIS 
 
 Statistical analysis of sales by country reveals 80% revenue coming from just top 4 countries - Turkmenistan, Myanmar, Djibouti and Honduras in that order.  
-
 The lowest contributors being Kyrgyzstan, Kuwait, Slovakia and Comoros accounting for only 0.42% of the total sales revenue.
 
-Recommendations
-
+RECOMMENDATIONS
 - Conduct region-specific demand assessment for bottom 4 countries to identify product-market fit gaps
 - Increase marketing budgets by 25% for top regions Sub-Saharan Africa and Europe   
 - Renegotiate supplier contracts to improve direct material costs by 10% & boost margins
