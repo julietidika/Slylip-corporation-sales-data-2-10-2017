@@ -65,7 +65,7 @@ RECOMMENDATIONS
 - Time-bound by obtaining monthly feedback from bottom quartile sales generating stores in Central America to identify and address product portfolio gaps.
 -  Make merchandizing adjustments every quarter to expand revenues by 15% annually
 -  Data shows 35% profit margin. Work with top vendors to get 10-15% reduction in raw material and inventory costs through volume-based discounts.
-- aunch targeted campaigns for high sales countries. Create customized promotional offers and advertisement for the 4 countries driving over 80% revenues - Turkmenistan, Myanmar, Djibouti and Honduras. 
+- Launch targeted campaigns for high sales countries. Create customized promotional offers and advertisement for the 4 countries driving over 80% revenues - Turkmenistan, Myanmar, Djibouti and Honduras. 
 
 
 
