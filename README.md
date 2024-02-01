@@ -13,7 +13,7 @@ The raw sales data was imported into Excel and summarized to derive descriptive 
 - Regions:          7
 - Countries :      76
 - Total Profit:    44.17M
-- Ttem Types:      12
+- Item Types:      12
 - Units Sold:      513K
 Data errors were corrected and outliers capped to acceptable ranges based on subject matter knowledge.
 
