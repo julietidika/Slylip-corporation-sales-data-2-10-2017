@@ -18,8 +18,11 @@ The raw sales data was imported into Excel and summarized to derive descriptive 
 Data errors were corrected and outliers capped to acceptable ranges based on subject matter knowledge.
 
 SQL: Utilized SQL queries to extract and manipulate data.
+
 Data Analysis: Performed various analytical tasks, including trend analysis, correlation analysis, and comparative analysis.
+
 Visualization: Plan to use visualization tools Power BI to visualize data and generate meaningful charts and graphs.
+
 
 DESCRIPTIVE ANALYSIS
 
@@ -44,12 +47,18 @@ The lowest contributors being Kyrgyzstan, Kuwait, Slovakia and Comoros accountin
 
 RESULTS
 
+
 The Sylip Corporation Sales Analysis project utilized retail sales data to provide valuable business insights. Through data manipulation, analysis, and visualization, the project aimed to identify key performance indicators including regional profits, total revenue, and product units sold.
 
 The comprehensive sales data analysis resulted in actionable recommendations to improve the company's bottom line and operations. By harnessing the power of Excel, SQL Server, and Power BI to extract, process, and visually represent sales data, the project demonstrated how data analytics can inform data-driven business decisions to boost performance.
 
 In summary, the sales analysis showcased sophisticated data analysis techniques to transform retail sales data into strategic recommendations designed to enhance profitability, revenue growth, and overall business performance. The project highlighted the value of actionable analytics rather than just raw data or descriptive statistics alone
+
+
 RECOMMENDATIONS
+
+
+
 - Conduct region-specific demand assessment for bottom 4 countries to identify product-market fit gaps
 - Increase marketing budgets by 25% for top regions Sub-Saharan Africa and Europe   
 - Renegotiate supplier contracts to improve direct material costs by 10% & boost margins
